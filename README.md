@@ -1,2 +1,8 @@
-# Amazing-Copmuter-vision-projects
-Here I am reviewing some of the amazing computer vision projects that I have worked on at various times
+# hand recognition with point position of fingers
+
+# Plan of attack
+
+* this the code requirement library:
+- mediapipe==0.8.3.1
+- opencv_python==4.5.1.48
+
